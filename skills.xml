@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<hard_skills>
+		<element>Codes HTTP</element>
+		<element>GitBash</element>
+		<element>structure JSON</element>
+		<element>structure XML</element>
+		<element>Postman for testing</element>
+		<element>API testing</element>
+		<element>Dev Tools</element>
+		<element></element>
+		<element></element>
+		<element></element>
+		<element></element>
+		<element></element>
+		<element></element>
+		<element></element>
+		<element></element>
+        </hard_skills>
+        <soft_skills>
+		<element>Seach in Googl</element>
+		<element>Sociability</element>
+		<element>Teamwork</element>
+		<element>Self_learning</element>
+		<element></element>
+        </soft_skills>
+</root>
+

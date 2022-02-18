@@ -16,3 +16,6 @@
       <expected_result>Пользователь не зарегестрирован. Подсветилась подсказка поля 'Фамилия'</expected_result>
    <actual_result>Регистрация прошла успешно</actual_result>
 </root>
+
+
+

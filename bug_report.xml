@@ -14,7 +14,8 @@
       <step_3>Нажать кнопку регистрации</step_3>
    </steps_to_reproduce>
       <expected_result>Пользователь не зарегестрирован. Подсветилась подсказка поля 'Фамилия'</expected_result>
-   <actual_result>Регистрация прошла успешно</actual_result>
+      <actual_result>Регистрация прошла успешно</actual_result>
+      <attachments>Null</attachments>
 </root>
 
 
